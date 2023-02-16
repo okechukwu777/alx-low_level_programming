@@ -2,7 +2,7 @@
 /**
  * main - A program that print the size of various type of computer
  * Return: 0 (Success)
- */
+*/
 int main(void)
 {
 	char a;
@@ -16,6 +16,6 @@ int main(void)
 	printf("size of a long int: %lu byte(s)\n", (unsigned long)sizeof(c));
 	printf("size of a long long int: %lu byte(s)\n", (unsigned long)sizeof(d));
 	printf("size of a float: %lu byte(s)\n", (unsigned long)sizeof(f));
-	printf( stderr, "Error has occured\n");
+	printf(stderr, "Error has occured\n");
 	return (0);
 }
