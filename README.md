@@ -15,7 +15,9 @@ What is the default program name when compiling with gcc
 What is the official C coding style and how to check your code with betty-style
 How to find the right header to include in your source code when using a standard library function
 How does the main function influence the return value of the program
-#Requirements C
+
+#Requirements C#
+
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
