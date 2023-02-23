@@ -15,11 +15,11 @@ int main(void)
 	for (; i < 100; i++)
 	{
 		if (i % 3 < 1 && i % 5 < 1)
-			printf("FizzBuzz ");
+			printf("Fizz Buzz ");
 		else if (i % 3 < 1)
 			printf("Fizz ");
 		else if (i % 5 < 1)
-			printf("Buzz");
+			printf("Buzz ");
 		else
 			printf("%d ", i);
 	}
