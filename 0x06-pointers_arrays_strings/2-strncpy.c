@@ -4,7 +4,7 @@
  * @dest: an input string
  * @src: an input string
  * @n: an input integer
- * Returns: Always 0
+ * Return: A pointer to the resulting string
  */
 
 char *_strncpy(char *dest, char *src, int n)
